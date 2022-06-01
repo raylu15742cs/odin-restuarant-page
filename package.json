@@ -1,0 +1,23 @@
+{
+  "name": "odin-restuarant-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raylu15742cs/odin-restuarant-page.git"
+  },
+  "author": "Raymond Lu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raylu15742cs/odin-restuarant-page/issues"
+  },
+  "homepage": "https://github.com/raylu15742cs/odin-restuarant-page#readme",
+  "devDependencies": {
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
