@@ -15,7 +15,7 @@
   \**********************/
 /***/ (() => {
 
-eval("console.log(\"hi\")\n\n//# sourceURL=webpack://odin-restuarant-page/./src/index.js?");
+eval("let mainbody = document.getElementById(\"content\");\n\nfunction newdiv() {\n    const newdiv = document.createElement('div');\n    newdiv.innerHTML = \"home\"\n\n    return newdiv\n}\n\nmainbody.appendChild(newdiv());\n\n//# sourceURL=webpack://odin-restuarant-page/./src/index.js?");
 
 /***/ })
 
