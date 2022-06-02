@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+}
+button {
+    height: 50px;
+    width: 200px;
+    border-radius: 20px;
+    background-color: #ffde73;
+    border: 1px solid black;
+}
+.header {
+    display: flex;
+    height: 6vh;
+    justify-content: center;
+    align-items: center;
+    gap: 2vw;
+    background-color: #ffde73 ;
+}

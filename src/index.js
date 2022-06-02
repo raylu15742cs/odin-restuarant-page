@@ -1,10 +1,5 @@
-let mainbody = document.getElementById("content");
+import './style.css';
 
-function newdiv() {
-    const newdiv = document.createElement('div');
-    newdiv.innerHTML = "home"
+import homediv from "./page-home.js";
 
-    return newdiv
-}
-
-mainbody.appendChild(newdiv());
+homediv();
